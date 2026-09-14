@@ -2,7 +2,7 @@
 
 > By **Festus Agbedeme** - https://github.com/festusagbedeme
 
-Powerful Ubuntu VPN Dashboard - Clean TUI like ITZDAJOHN, branded for FEZIWORLD.
+Powerful Ubuntu VPN Dashboard - Clean TUI branded for FEZIWORLD.
 
 ## 🚀 One-Command Install (Recommended)
 
