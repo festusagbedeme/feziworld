@@ -7,7 +7,12 @@ Powerful Ubuntu VPN Dashboard - Clean TUI branded for FEZIWORLD.
 ## 🚀 One-Command Install (Recommended)
 
 ```bash
+# Install
 bash <(curl -fsSL https://raw.githubusercontent.com/festusagbedeme/feziworld/main/install.sh)
+
+## 🚀 One-Command UnInstall (Recommended)
+# Uninstall
+bash <(curl -fsSL https://raw.githubusercontent.com/festusagbedeme/feziworld/main/uninstall.sh)
 ```
 
 The installer will:
