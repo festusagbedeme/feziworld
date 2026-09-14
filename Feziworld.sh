@@ -1,5 +1,5 @@
-# Repo: https://github.com/festusagbedeme/feziworld
 #!/bin/bash
+# Repo: https://github.com/festusagbedeme/feziworld
 # FEZIWORLD - MAIN MENU - Ubuntu VPN Manager v2.0
 RESET="\e[0m"; BOLD="\e[1m"; BLUE_LINE="\e[38;5;27m"; PINK="\e[38;5;213m"; YELLOW_LABEL="\e[38;5;222m"; BLUE_VALUE="\e[38;5;75m"; CYAN_MENU="\e[38;5;80m"; RED_EXIT="\e[38;5;203m"; DB_BG="\e[48;5;235m"
 get_cpu_load() { awk '{print $1}' /proc/loadavg; }
